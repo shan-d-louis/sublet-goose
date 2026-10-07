@@ -1,6 +1,6 @@
-# 🪿 Sublet Goose
+# 🪿 Sublet Goose | Claude Builders Hackathon 2026 Winner
+
 > Ontario RTA Lease Auditor for University of Waterloo Students
-> Claude Builders Hackathon 2026 Winner
 
 AI-powered lease auditing tool that detects illegal clauses, void provisions, and generates copy-paste negotiation scripts — all grounded in the Ontario Residential Tenancies Act (RTA), 2006.
 
